@@ -1,6 +1,6 @@
 👋 Hi there - I'm CJ.
 
-You'll mostly find me writing code for amateur radio based applications. I no longer do it professionally.
+You'll mostly find me writing code for amateur radio based applications. I no longer do it professionally. I also spend my free time hunting for countries on HF radio, and playing Old School Runescape. 
 
 - 🔭 I’m currently working on [dx-logger](https://github.com/cjtheham/dx-logger) - a web-based amateur radio QSO logging platform.
 - 🌱 I'm currently studying for a bachelor's in electrical engineering.
