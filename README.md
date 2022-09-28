@@ -2,11 +2,12 @@
 
 You'll mostly find me writing code for amateur radio based applications. I no longer do it professionally. I also spend my free time hunting for countries on HF radio, and playing Old School Runescape. 
 
-- 🔭 I’m currently working on [dx-logger](https://github.com/cjtheham/dx-logger) - a web-based amateur radio QSO logging platform.
-- 🌱 I'm currently studying for a bachelor's in electrical engineering.
-- 🤔 I'm looking to collaborate on [horace](https://github.com/knights-of-academia/horace) and other Knights of Academia projects.
-- 💬 Ask me about RF communcations and amateur radio!
-- 📫 Find me on Twitter: @ww0_cj, or somewhere in the ham radio Discord space.
+- 🔭 I’m currently working on too many projects...
+- 🌱 I’m currently studying for a bachelors in Electrical Engineering.
+- 💬 Ask me about RF and amateur radio applications for programming!
+- 📫 How to reach me: post on one of my repositories here (this one works!)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can decode morse code in my head!
 
 
 <!--
